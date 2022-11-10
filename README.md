@@ -1,4 +1,4 @@
-# kitabisa-automation-api-
+# kitabisa-automation-api
 ## Automated Test
 
 ### Prerequisite
